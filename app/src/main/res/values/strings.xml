@@ -1,0 +1,79 @@
+<resources>
+    <string name="app_name">sinsali_project</string>
+
+    <!--- 스플래쉬 화면 !-->
+    <string name="main_text">MAPDANG</string>
+
+
+    <!--- 메인화면 !-->
+    <string name="main_logo">MAPDANG</string>
+    <string name="game_start">MENU</string>
+
+
+    <!--- 메뉴 확인 할 수 있는 화면 !-->
+    <string name="main_menu">MAIN MENU</string>
+    <string name="main_food">매운 갈비찜 : </string>
+    <string name="price_menu">11,000원</string>
+
+    <string name="spicy_1">1단계 청양고추 : </string>
+    <string name="pepper1">약하게 매운맛</string>
+
+    <string name="spicy_2">2단계 쥐똥고추 : </string>
+    <string name="pepper2">강하게 매운맛</string>
+
+    <string name="spicy_3">3단계 하바네로 : </string>
+    <string name="pepper3">미치도록 매운맛</string>
+
+    <string name="spicy_4">4단계 부트졸로키아 : </string>
+    <string name="pepper_4">죽을만큼 매운맛</string>
+
+
+    <!--- 사이드메뉴 확인 할 수 있는 화면 !-->
+    <string name="side_menu">SIDE_MENU</string>
+    <string name="side_1">감자튀김치즈퐁튜</string>
+    <string name="sd_price1">6,000원</string>
+
+    <string name="side_2">통오징어사리</string>
+    <string name="sd_price2">6,000원</string>
+
+    <string name="side_3">네모 도시락</string>
+    <string name="sd_price3">4,500원</string>
+
+    <string name="side_4">치즈계란찜</string>
+    <string name="sd_price4">4,000원</string>
+
+    <string name="side_5">셀프주먹밥</string>
+    <string name="sd_price5">3,500원</string>
+
+    <string name="side_6">마요네즈참치주먹밥</string>
+    <string name="sd_price6">4,500원</string>
+
+    <string name="side_7">사리 (당면,라면,떡,오뎅,메추리알,감자)</string>
+    <string name="sd_price7">2,000원</string>
+
+    <string name="side_8">치즈사리</string>
+    <string name="sd_price8">3,000원</string>
+
+    <string name="side_9">볶음밥</string>
+    <string name="sd_price9">2,000원</string>
+
+
+    <!--- 음료를 확인 할 수 있는 화면 !-->
+    <string name="drink">DRINK</string>
+    <string name="drink_1">소주</string>
+    <string name="dr_price1">4,000원</string>
+
+    <string name="drink_2">맥주</string>
+    <string name="dr_price2">4,500원</string>
+
+    <string name="drink_3">청하, 매화수</string>
+    <string name="dr_price3">4,500원</string>
+
+    <string name="drink_4">음료수 (콜라, 사이다)</string>
+    <string name="dr_price4">2,000원</string>
+
+    <string name="drink_5">쿨피스</string>
+    <string name="dr_price5">1,500원</string>
+
+
+</resources>
